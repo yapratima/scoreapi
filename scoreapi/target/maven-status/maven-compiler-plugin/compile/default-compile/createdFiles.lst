@@ -1,0 +1,9 @@
+com\scoreapi\spring\config\MyWebAppIntializer.class
+com\scoreapi\spring\model\score.class
+com\scoreapi\spring\dao\Scoredao.class
+com\scoreapi\spring\dao\ScoreDaoImplementation.class
+com\scoreapi\spring\service\Scoreservice.class
+com\scoreapi\spring\config\WebConfig.class
+com\scoreapi\spring\config\AppConfig.class
+com\scoreapi\spring\service\Scoreserviceimplementation.class
+com\scoreapi\spring\controller\ScoreController.class
